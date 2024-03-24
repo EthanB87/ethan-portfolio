@@ -9,7 +9,7 @@ const Hero = () => {
                 <div>
                     <h1 className="xl:text-[50px] lg:text-[40px] sm:text-[35px] text-[25px] 
                     font-bold leading-[2.5rem] text-white">
-                        Hey! I'm <span className="text-yellow-300">Ethan</span>
+                        Hey! I am <span className="text-yellow-300">Ethan</span>
                     </h1>
                     <HeroTypeAnimation/>
                     <div className="mt-[2rem] flex items-center space-x-6">
