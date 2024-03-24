@@ -13,7 +13,7 @@ const Hero = () => {
                     </h1>
                     <HeroTypeAnimation/>
                     <div className="mt-[2rem] flex items-center space-x-6">
-                        <a href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:e1f9d3d3-fd10-315b-bee7-56e9dd9b0b0a" target="_blank">
+                        <a href="https://acrobat.adobe.com/link/review/?uri=urn%3Aaaid%3Ascds%3AUS%3Ae1f9d3d3-fd10-315b-bee7-56e9dd9b0b0a&viewer%21megaVerb=group-edit&dropinId=partial-edit" target="_blank">
                             <button className="relative h-[50px] w-40 overflow-hidden bg-yellow-300 text-white shadow-2xl font-semibold
                             transition-all duration-300 hover:bg-blue-600 hover:text-yellow-300 mx-10">
                             <span className="absolute inset-0 flex items-center justify-center transition-all">
